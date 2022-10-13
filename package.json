@@ -1,0 +1,19 @@
+{
+  "name": "expressformdata",
+  "version": "1.0.0",
+  "description": "handle form data ",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenDwivedi007/expressFormData.git"
+  },
+  "author": "Naveen Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveenDwivedi007/expressFormData/issues"
+  },
+  "homepage": "https://github.com/NaveenDwivedi007/expressFormData#readme"
+}
